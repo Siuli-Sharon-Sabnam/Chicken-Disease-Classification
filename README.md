@@ -56,8 +56,8 @@ A Deep Learning-based classification system to detect diseases in chickens using
 
 ### STEP 1: Clone the Repository
 ```bash
-git clone https://github.com/krishnaik06/Chicken-Disease-Classification-Projects.git
-cd Chicken-Disease-Classification-Projects
+git clone https://github.com/Siuli-Sharon-Sabnam/Chicken-Disease-Classification.git
+cd Chicken-Disease-Classification
 ```
 
 ### STEP 2: Create and Activate a Conda Environment
